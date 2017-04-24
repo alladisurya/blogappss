@@ -1,0 +1,15 @@
+ Volume in drive C is OS7_D1
+ Volume Serial Number is D557-02B4
+
+ Directory of C:\venus\djangoprojects\mysite4
+
+04/24/2017  10:44 AM    <DIR>          .
+04/24/2017  10:44 AM    <DIR>          ..
+04/24/2017  10:41 AM    <DIR>          .idea
+04/21/2017  05:28 PM    <DIR>          blog
+04/24/2017  10:05 AM            43,008 db.sqlite3
+04/21/2017  11:27 AM               827 manage.py
+04/21/2017  12:01 PM    <DIR>          mysite4
+04/24/2017  10:44 AM                 0 test1.txt
+               3 File(s)         43,835 bytes
+               5 Dir(s)   1,301,372,928 bytes free
